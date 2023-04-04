@@ -50,17 +50,7 @@
   input:focus {
     border: 1px solid #4c49f3;
   }
-  /*.degree-type {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 0;
-  }*/
-  /*.degree-field {
-    display: flex;
-    flex-direction: column;
-    width: 46%;
-  }*/
+  
   .degree-field{
 padding-top: 20px;
   }
